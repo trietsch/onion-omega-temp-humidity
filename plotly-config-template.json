@@ -1,0 +1,6 @@
+{
+"temperature_stream_token": "stream_token_0",
+"humidity_stream_token": "stream_token_1",
+"plotly_api_key": "api_key",
+"plotly_username": "plotly_username"
+}
